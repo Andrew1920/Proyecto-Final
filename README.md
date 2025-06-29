@@ -106,7 +106,8 @@ go run server.go
 **3. Abrir la Aplicación:**
 
 Una vez que ambos servidores estén en ejecución, abre tu navegador web y ve a la siguiente dirección:
-
+Link de la api
 **`http://localhost:8080`**
-
+link de la aplicacion web
+**`http://localhost:8001`**
 ¡Listo! Ya puedes interactuar con la aplicación web completa.
